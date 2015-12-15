@@ -7,4 +7,4 @@ como notepad por ejemplo. Esto sera util para programas que necesitan imprimir l
 tienen una impresora virtual para que imprima directo a pantalla. Entoces se podra crear un impresora que imprima a un archivo de texto
 en algun directorio, el cual estara monitoreando MonDir, y este lo lanzara a pantalla con el visor de texto que escoja el usuario.
 
-Este proyecto recien esta iniciando por lo que no hay una version actual, solo la de desarrollo.
+Este proyecto se encuentra en su version 1.0 beta, ya que esta a modo de prueba aun. Ademas falta mejorar el codigo.
